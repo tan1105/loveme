@@ -1,0 +1,35 @@
+.tong{
+    background-image: url(https://2.bp.blogspot.com/-MQj8WZsvPkk/URzez_J09cI/AAAAAAAABGg/AGjF6zYGri0/s1600/anh-tran-tri-blogger-blogspot_anh-dong-nen-blog_Namkna-blogspot-com_42.gif);
+    background-size: 80%;
+}
+.img .anh2 img{
+   
+   max-width:200px;
+   max-height:200px;
+   width: auto;
+   height: auto;
+}
+.img .anh1 img{
+    max-width:200px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+
+.container .header>h5{
+    text-align: center;
+    font-family: cursive; 
+    font-weight: 100px;
+    color: rgb(52, 55, 199);
+}
+.anh-me img{
+    max-width:200px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+    
+}
+.anh img{
+    display: inline;
+}
+
